@@ -1,4 +1,4 @@
--- Löve2D-Hack (I hope this doesn't break everything)
+-- löve2D source will not be in the love.exe directory
 package.path = package.path .. arg[1] .. "/?.lua;"
 
 
